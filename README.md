@@ -1,3 +1,3 @@
 # Logistic_Regression-Classification-
 
-testing cla assistant
+testing cla assistant June 6th
